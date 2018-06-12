@@ -1,0 +1,20 @@
+{
+	"bmw_offer": [
+		{
+			"url":
+				"https://www.bmwusa.com/special-offers/lease.2018-330i-xDrive-Gran-Turismo.bmw.html?modal=special-offers-legal",
+			"added": "2018-06-11",
+			"active": true,
+			"handler": "bmw-usa",
+			"car_check": "2018 BMW 330i xDrive Gran Turismo"
+		},
+		{
+			"url":
+				"https://www.bmwusa.com/special-offers/lease.2018-320i-Sedan.bmw.html?modal=special-offers-legal",
+			"added": "2018-06-11",
+			"active": false,
+			"handler": "bmw-usa-330i",
+			"car_check": "2018 BMW 330i"
+		}
+	]
+}
