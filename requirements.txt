@@ -1,2 +1,2 @@
 #minimum package versions
-requests >= 2.18.4
+requests >= 2.33.1
